@@ -1,2 +1,2 @@
-This is Joe Maynard. I am refreshing myselfs on the basics of Git, and
+This is Joe Maynard. I am refreshing myself on the basics of Git, and
 starting my coding journey again.
